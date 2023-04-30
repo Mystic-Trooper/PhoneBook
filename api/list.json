@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "firstName": "Amit",
+    "lastName": "Patil",
+    "phone": "986010101"
+  },
+  {
+    "id": 2,
+    "firstName": "Sanjoli",
+    "lastName": "Goyal",
+    "phone": "0966101010"
+  },
+  {
+    "id": 3,
+    "firstName": "Vaibhav",
+    "lastName": "Pandey",
+    "phone": "0906100110"
+  },
+  {
+    "id": 4,
+    "firstName": "Aksh",
+    "lastName": "Gupta",
+    "phone": "0886111011"
+  },
+  {
+    "id": 5,
+    "firstName": "Muskan",
+    "lastName": "Jain",
+    "phone": "0946101000"
+  }
+]
